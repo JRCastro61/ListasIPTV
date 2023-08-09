@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1 xui-id="673" tvg-id="XHDFID5" tvg-name="MX - Azteca Uno HD" tvg-logo="http://latvonlive.com:33612/images/d3304de10a3c522acad9785831479f2a.png" group-title="Norte America",MX - Azteca Uno HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS15cfJHhF3HuZ8m4JBMIxYc/ts
+
+#EXTINF:-1 xui-id="449" tvg-id="XEWHDI1" tvg-name="MX - Las Estrellas HD" tvg-logo="http://latvonlive.com:33612/images/f9c14d1414860718aa2d6da8119b01c6.png" group-title="Norte America",MX - Las Estrellas HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDCvLmGPKO753I_NrwSRiI2Y/ts
+
+#EXTINF:-1 xui-id="231" tvg-id="GALAHD" tvg-name="Galavisión" tvg-logo="http://latvonlive.com:33612/images/f7ede3a71d4369bdd674c33a917b146c.png" group-title="Norte America",Galavisión
+http://latvonlive.com:33612/play/EGjti3B0vUDxMjjFJuqw4GzPI5zft05yOgB1aLhRjWE/ts
+
+#EXTINF:-1 xui-id="451" tvg-id="XHGCID2" tvg-name="MX - Canal 5 HD" tvg-logo="http://latvonlive.com:33612/images/7d2ace9537afc40079486c4f684bbbf3.png" group-title="Norte America",MX - Canal 5 HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDETNp8g_VpXhihDCKMJWBBE/ts
+
+#EXTINF:-1 xui-id="450" tvg-id="XHIMID5" tvg-name="MX - Azteca 7 HD" tvg-logo="http://latvonlive.com:33612/images/244d3c33bec3f2710aa7d20074b608f5.png" group-title="Norte America",MX - Azteca 7 HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDJe94UmyFPq9jX1iHCPaXR4/ts
+
+#EXTINF:-1 xui-id="890" tvg-id="IMGTVHD" tvg-name="MX - Imagen TV" tvg-logo="http://latvonlive.com:33612/images/8cfd48db8cd44f66e66389fb4ec2e7a1.png" group-title="Norte America",MX - Imagen TV
+http://latvonlive.com:33612/play/xTrzi3t9tgkiDTnnJDEKHpf5jRb9vxcR0Ykj7_Zkr2U/ts
+
+#EXTINF:-1 xui-id="452" tvg-id="XEIPND5" tvg-name="MX - Once TV HD" tvg-logo="http://latvonlive.com:33612/images/cbc0aab01803c1b83319b0140f068bb7.png" group-title="Norte America",MX - Once TV HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDDnOP1qmW4XbCHVLk-Ie0Ss/ts
+
+#EXTINF:-1 xui-id="780" tvg-id="XHTDID2" tvg-name="MX - Multimedios HD" tvg-logo="http://latvonlive.com:33612/images/7cd0b628568c3e63fdf89862a51be54e.png" group-title="Norte America",MX - Multimedios HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjV2ozilbN5EyYSMMI35v5zY/ts
+
+#EXTINF:-1 xui-id="54" tvg-id="ADN40HD" tvg-name="MX - ADN 40" tvg-logo="http://latvonlive.com:33612/images/e5d759afb1fc5063f6f6b4c303b549eb.png" group-title="Norte America",MX - ADN 40
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUhYnwSzobdrx7DtywtVlOe0/ts
+
+#EXTINF:-1 xui-id="240" tvg-id="TUDNM" tvg-name="TUDN HD" tvg-logo="http://latvonlive.com:33612/images/f54b2056b0ef8ef8a05fc64732a3b615.png" group-title="Deportes",TUDN HD
+http://latvonlive.com:33612/play/EGjti3B0vUDxMjjFJuqw4JdhcuBk0pzXi6qk1qodh3k/ts
+
+#EXTINF:-1 xui-id="527" tvg-id="I503.38683.schedulesdirect.org" tvg-name="TUDN Mexico" tvg-logo="http://latvonlive.com:33612/images/9e8dd59c2bf3edb5ca08b5b1fcaaa21b.png" group-title="Deportes",TUDN Mexico
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUtFj3P2N4o9uWn5_DdP02MM/ts
+
+#EXTINF:-1 xui-id="563" tvg-id="ESPN (Mexico)" tvg-name="ESPN HD Mexico" tvg-logo="http://latvonlive.com:33612/images/04aa90ba19bd4fc62e847d0135241cb3.png" group-title="Deportes",ESPN HD Mexico
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUt3Ls5KPjbNnwX88gWbQ_Ko/ts
+
+#EXTINF:-1 xui-id="4" tvg-id="ESPN 2 Mexico" tvg-name="ESPN 2 Mexico" tvg-logo="http://latvonlive.com:33612/images/8f326f7ec96b35e651ff8ad97bab6436.png" group-title="Deportes",ESPN 2 Mexico
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDG_qJ_BZx96GsYAJI_LetPA/ts
+
+#EXTINF:-1 xui-id="620" tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://latvonlive.com:33612/images/59222e55fc5a99f8707cbfbf65a34b56.png" group-title="Deportes",ESPN 3 HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS_TH1PpS9-tmjuLnny_dEow/ts
+
+#EXTINF:-1 xui-id="423" tvg-id="ESPN Extra" tvg-name="ESPN Extra HD" tvg-logo="http://latvonlive.com:33612/images/a36cacc15ab5ab744498dd31f5cd49f8.png" group-title="Deportes",ESPN Extra HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDCQ8CYc6UQnZQB6h5kDZNtE/ts
+
+#EXTINF:-1 xui-id="537" tvg-id="ESPNDHD" tvg-name="ESPN Deportes HD" tvg-logo="http://latvonlive.com:33612/images/1e488f6d440a9aeb72e42fc872c3ae91.png" group-title="Deportes",ESPN Deportes HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUjZPSEXE5BxLOh4c4rxBdCo/ts
+
+#EXTINF:-1 xui-id="163" tvg-id="Fox Sports 1 Mexico" tvg-name="Fox Sports HD Mexico" tvg-logo="http://latvonlive.com:33612/images/077cb8ba2dfc4bd7af533ec107452f3d.png" group-title="Deportes",Fox Sports HD Mexico
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DZnJP8Kx5savCOtugRG-FMI/ts
+
+#EXTINF:-1 xui-id="162" tvg-id="Fox Sports 2 Mexico" tvg-name="Fox Sports 2 HD Mexico" tvg-logo="http://latvonlive.com:33612/images/a4c3d4dccd604d0b77349eeff42c06a8.png" group-title="Deportes",Fox Sports 2 HD Mexico
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DSExduBMq5WgEp9xqn5KLb4/ts
+
+#EXTINF:-1 xui-id="166" tvg-id="FSPREM" tvg-name="Fox Sports Premium HD Argentina" tvg-logo="http://latvonlive.com:33612/images/8d604b73419b87d98ce3d55740e970a6.png" group-title="Deportes",Fox Sports Premium HD Argentina
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DQqewKaAcP_wuZfd5oqqeP8/ts
+
+#EXTINF:-1 xui-id="161" tvg-id="Fox Sports 3 Mexico" tvg-name="Fox Sports 3 HD Mexico" tvg-logo="http://latvonlive.com:33612/images/afdb6c6b9d06776899273e82164cd6cd.png" group-title="Deportes",Fox Sports 3 HD Mexico
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DWi5hcQSPl_rEUFcRDQdYpg/ts
+
+#EXTINF:-1 xui-id="702" tvg-id="" tvg-name="MLB 1 HD" tvg-logo="http://latvonlive.com:33612/images/65bfca8574c7491f18f4052c7ee08f19.png" group-title="MLB",MLB 1 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjU_Zdbq7qZa70TtxhS2xHvI/ts
+
+#EXTINF:-1 xui-id="703" tvg-id="" tvg-name="MLB 2 HD" tvg-logo="http://latvonlive.com:33612/images/65bfca8574c7491f18f4052c7ee08f19.png" group-title="MLB",MLB 2 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjUWZpgSYeub2epIjKK4I-Hg/ts
+
+#EXTINF:-1 xui-id="704" tvg-id="" tvg-name="MLB 3 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 3 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjQ1n5L_mWCqBqsiHBCtNaZo/ts
+
+#EXTINF:-1 xui-id="705" tvg-id="" tvg-name="MLB 4 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 4 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjYBkW1bIWORnkgJlJ2e6fyA/ts
+
+#EXTINF:-1 xui-id="706" tvg-id="" tvg-name="MLB 5 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 5 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjVOeO9vSHM1FdaaaCA6fN1Q/ts
+
+#EXTINF:-1 xui-id="707" tvg-id="" tvg-name="MLB 6 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 6 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjeso3bCFBgWsC8i09pbG3oA/ts
+
+#EXTINF:-1 xui-id="708" tvg-id="" tvg-name="MLB 7 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 7 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjbov9wavxEuZ5TiqkX3eS_w/ts
+
+#EXTINF:-1 xui-id="709" tvg-id="" tvg-name="MLB 8 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 8 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjV0qFnD28g9YJp0HeBi-Sng/ts
+
+#EXTINF:-1 xui-id="710" tvg-id="" tvg-name="MLB 9 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 9 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjeiJZ5OO68xGLA9S36MmA-8/ts
+
+#EXTINF:-1 xui-id="711" tvg-id="" tvg-name="MLB 10 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 10 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjUTpNC6aabsqkquP99po_ic/ts
+
+#EXTINF:-1 xui-id="782" tvg-id="" tvg-name="MLB 11 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 11 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjQV55pQKSHuoFI_-I5RHNQE/ts
+
+#EXTINF:-1 xui-id="783" tvg-id="" tvg-name="MLB 12 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 12 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjSTgYE4B06bp9Bc1J-rlftE/ts
+
+#EXTINF:-1 xui-id="784" tvg-id="" tvg-name="MLB 13 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 13 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjQHV87oDssy0gOb_zC3XN1o/ts
+
+#EXTINF:-1 xui-id="785" tvg-id="" tvg-name="MLB 14 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 14 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjYegI287snYJgofqLVvKUKg/ts
+
+#EXTINF:-1 xui-id="786" tvg-id="" tvg-name="MLB 15 HD" tvg-logo="http://latvonlive.com:38261/Logos/all/mlb.png" group-title="MLB",MLB 15 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjWAXdZYjtyoDGp3YWNK3K-g/ts
+
+#EXTINF:-1 xui-id="424" tvg-id="I703.65025.zap2it.com" tvg-name="NFL RedZone HD" tvg-logo="http://latvonlive.com:33612/images/39d637abb5c2ad5b63ad4acb94b40336.png" group-title="NFL",NFL RedZone HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDF5Vnb4y58GRdtSqctK_vCk/ts
+
+#EXTINF:-1 xui-id="712" tvg-id="" tvg-name="NFL 1 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 1 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjSzRV7g8HX-8Ejjjjd9O-jY/ts
+
+#EXTINF:-1 xui-id="713" tvg-id="" tvg-name="NFL 2 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 2 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjY-pe1p_Y5npdxixmQbc9hM/ts
+
+#EXTINF:-1 xui-id="714" tvg-id="" tvg-name="NFL 3 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 3 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjUM0Y1dZvvLWqLpErtBHxok/ts
+
+#EXTINF:-1 xui-id="715" tvg-id="" tvg-name="NFL 4 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 4 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjbWMmjPgX4AbhGqg63eyabM/ts
+
+#EXTINF:-1 xui-id="716" tvg-id="" tvg-name="NFL 5 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 5 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjY09_kWzsCBdam_Q4t_0zRc/ts
+
+#EXTINF:-1 xui-id="717" tvg-id="" tvg-name="NFL 6 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 6 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjT-gm9AOdaiN7mOnVyYBWxQ/ts
+
+#EXTINF:-1 xui-id="718" tvg-id="" tvg-name="NFL 7 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 7 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjfkquLsk-5zM58S_z88a_Sk/ts
+
+#EXTINF:-1 xui-id="719" tvg-id="" tvg-name="NFL 8 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 8 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjf_xCrwwXlHsqptTO-Be1GM/ts
+
+#EXTINF:-1 xui-id="720" tvg-id="" tvg-name="NFL 9 HD" tvg-logo="http://latvonlive.com:33612/images/18cb6801d421d5ba09a9f1762af9dcb9.png" group-title="NFL",NFL 9 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjfK_w661Sa_3qP-JNAQUWBA/ts
+
+#EXTINF:-1 xui-id="721" tvg-id="" tvg-name="NFl 10 HD" tvg-logo="http://latvonlive.com:33612/images/18f8abea98013844e3b2112c9d33ffb8.png" group-title="NFL",NFl 10 HD
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjUoX1EWklAX0jif15x_e4Oo/ts
+
+#EXTINF:-1 xui-id="235" tvg-id="I425.70337.zap2it.com" tvg-name="BabyTV Español" tvg-logo="http://latvonlive.com:33612/images/16c0725ba7f7eaea7030d69a2f5adaec.png" group-title="Infantiles",BabyTV Español
+http://latvonlive.com:33612/play/EGjti3B0vUDxMjjFJuqw4HI5qyRdooFOOqvG05fUmMw/ts
+
+#EXTINF:-1 xui-id="34" tvg-id="I334.26089.schedulesdirect.org" tvg-name="Boomerang Latinoamérica" tvg-logo="http://latvonlive.com:33612/images/92c2dd4be7ddf020098a6b1909893254.png" group-title="Infantiles",Boomerang Latinoamérica
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMO9ybzPdZx2Ho4gHEilSMBA/ts
+
+#EXTINF:-1 xui-id="39" tvg-id="I304.59562.schedulesdirect.org" tvg-name="Cartoon Network HD" tvg-logo="http://latvonlive.com:33612/images/39225237fadac3a176a51eba16850166.png" group-title="Infantiles",Cartoon Network HD
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMJidEsnCUq3I3E3b5dslIeQ/ts
+
+#EXTINF:-1 xui-id="921" tvg-id="I436.58428.zap2it.com" tvg-name="Discovery Familia HD" tvg-logo="http://latvonlive.com:33612/images/9518fc566a20162557c6f6f2bf5d41a3.png" group-title="Infantiles",Discovery Familia HD
+http://latvonlive.com:33612/play/qZ8KxrbWUlbwsCrcfQud9_FkGdzJYpdLL7OOcvHrfnY/ts
+
+#EXTINF:-1 xui-id="622" tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://latvonlive.com:33612/images/ac9e9774a8dc85934eb5e0ac5761ec94.png" group-title="Infantiles",Discovery Kids HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS0YOgCOtsSp5q91nrcxkWR8/ts
+
+#EXTINF:-1 xui-id="636" tvg-id="Disney en Español" tvg-name="Disney HD" tvg-logo="http://latvonlive.com:33612/images/31bcc44c548ddccda3e1a6b12ea73f31.png" group-title="Infantiles",Disney HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS2TWtnnUDQxdTXgGbsFU7TA/ts
+
+#EXTINF:-1 xui-id="37" tvg-id="I207.61311.schedulesdirect.org" tvg-name="Disney Junior HD" tvg-logo="http://latvonlive.com:33612/images/b68b801a7ee8572b0d37c9f2b521e899.png" group-title="Infantiles",Disney Junior HD
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMO5QU0zTArXpvPgp4km5LlI/ts
+
+#EXTINF:-1 xui-id="496" tvg-id="I402.16563.schedulesdirect.org" tvg-name="Disney XD Latinoamérica" tvg-logo="http://latvonlive.com:33612/images/ff06a319844d553c7abb48d481dd7e73.png" group-title="Infantiles",Disney XD Latinoamérica
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDODZE6P5WWiYko0LnLI6ok0/ts
+
+#EXTINF:-1 xui-id="589" tvg-id="Nat Geo Kids" tvg-name="Nat Geo Kids HD" tvg-logo="http://latvonlive.com:33612/images/785e16bf889515b05e58798524200098.png" group-title="Infantiles",Nat Geo Kids HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUjZHoDba4nmBmXgPyLkJzPg/ts
+
+#EXTINF:-1 xui-id="586" tvg-id="I304.49896.schedulesdirect.org" tvg-name="Nick HD" tvg-logo="http://latvonlive.com:33612/images/dd84cb84e38215a2f395cc0b95566263.png" group-title="Infantiles",Nick HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUgatyWw_uYuNW0NrE85Tdfk/ts
+
+#EXTINF:-1 xui-id="587" tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="http://latvonlive.com:33612/images/4466decb98f50c287d110631e0736249.png" group-title="Infantiles",Nick Jr HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUhbhq7zqyIVOUPo1au8bLH4/ts
+
+#EXTINF:-1 xui-id="752" tvg-id="I407.90209.schedulesdirect.org" tvg-name="Nick Music Latinoamérica" tvg-logo="http://latvonlive.com:33612/images/d002b130f6dc9d716541a950ddcb253f.png" group-title="Infantiles",Nick Music Latinoamérica
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjQ4OFIOpQeRoyiSJa9x8B2U/ts
+
+#EXTINF:-1 xui-id="639" tvg-id="I411.63109.schedulesdirect.org" tvg-name="Tooncast" tvg-logo="http://latvonlive.com:33612/images/a67a582054f8c06397db249145dd68dc.png" group-title="Infantiles",Tooncast
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FSyc6Jx99JcNeFykdb211HP0/ts
+
+#EXTINF:-1 xui-id="635" tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://latvonlive.com:33612/images/f4a378b2a2cfffe66ac3b277e20f63da.png" group-title="Entretenimiento",A&E HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS6Fv_3o6sVHb2-glPLXzSWY/ts
+
+#EXTINF:-1 xui-id="612" tvg-id="I251.15688.schedulesdirect.org" tvg-name="Star Channel HD" tvg-logo="http://latvonlive.com:33612/images/e59c2182b38d53e34d7ff816e0349520.png" group-title="Entretenimiento",Star Channel HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS5reucAYpLWCBYOen2F05pw/ts
+
+#EXTINF:-1 xui-id="584" tvg-id="Sony Entertainment Television" tvg-name="Canal Sony HD" tvg-logo="http://latvonlive.com:33612/images/fa31ae59412a2f0cf33fc3d4e9cd80d0.png" group-title="Entretenimiento",Canal Sony HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUt8SQWFGascGhDSfCN4CZq4/ts
+
+#EXTINF:-1 xui-id="415" tvg-id="Comedy Central" tvg-name="Comedy Central HD" tvg-logo="http://latvonlive.com:33612/images/03387e146cce300232639e0d4b7d4158.png" group-title="Entretenimiento",Comedy Central HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDNtbN8JyvzHOE8wH_K8g8og/ts
+
+#EXTINF:-1 xui-id="896" tvg-id="DISTCOM" tvg-name="Distrito Comedia" tvg-logo="http://latvonlive.com:33612/images/c1803b247ade38703c7d84cc03111aa2.png" group-title="Entretenimiento",Distrito Comedia
+http://latvonlive.com:33612/play/xTrzi3t9tgkiDTnnJDEKHq7sBr4qKtx34ClKBx1Rlz4/ts
+
+#EXTINF:-1 xui-id="314" tvg-id="I255.30259.schedulesdirect.org" tvg-name="E! Entertainment Latino" tvg-logo="http://latvonlive.com:33612/images/4dd171b704697af4f7a00e94c077dd74.png" group-title="Entretenimiento",E! Entertainment Latino
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMIvzWKvkvxt5cUUJ3sCz1DM/ts
+
+#EXTINF:-1 xui-id="613" tvg-id="Star Life" tvg-name="Star Life HD" tvg-logo="http://latvonlive.com:33612/images/2b325857f82d17405a2041065676b6ee.png" group-title="Entretenimiento",Star Life HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS6W46KGtKNuvK9-BggkyFZU/ts
+
+#EXTINF:-1 xui-id="608" tvg-id="FX Latin America" tvg-name="FX HD" tvg-logo="http://latvonlive.com:33612/images/4ee29d1611d68039bfb76e2dd67e45d2.png" group-title="Entretenimiento",FX HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS4Cdq4RUicPYci0LwsA-878/ts
+
+#EXTINF:-1 xui-id="641" tvg-id="I273.75073.schedulesdirect.org" tvg-name="TBS Latinoamérica" tvg-logo="http://latvonlive.com:33612/images/2faa2f0788404154e7500ffaec1a7d9a.png" group-title="Entretenimiento",TBS Latinoamérica
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS9rp5XLmY3uQDJfHfer7g5o/ts
+
+#EXTINF:-1 xui-id="576" tvg-id="Warner Channel" tvg-name="Warner HD" tvg-logo="http://latvonlive.com:33612/images/a6ac18187793708dfc03d94888eff285.png" group-title="Entretenimiento",Warner HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUheKjvputXzJLDaZ7Q0reQY/ts
+
+#EXTINF:-1 xui-id="57" tvg-id="Animal Planet Latino" tvg-name="Animal Planet HD" tvg-logo="http://latvonlive.com:33612/images/df4dcc7ce3d4a4872331f5615d609659.png" group-title="Cultura",Animal Planet HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUtytenTrXMUsznRqn0FIXMA/ts
+
+#EXTINF:-1 xui-id="624" tvg-id="The Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://latvonlive.com:33612/images/684d31e49bddcfdc5c252aecc18789f6.png" group-title="Cultura",Discovery Channel HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS_KKYlBbb9ubSj9ZVAl6Iyg/ts
+
+#EXTINF:-1 xui-id="558" tvg-id="I413.19247.zap2it.com" tvg-name="Discovery en Español US" tvg-logo="http://latvonlive.com:33612/images/894c112157657d8f51a9ac5d79650441.png" group-title="Cultura",Discovery en Español US
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUucdihH_L_CD8tnwjXLA_Hk/ts
+
+#EXTINF:-1 xui-id="623" tvg-id="Discovery Home and Health" tvg-name="Discovery Home & Health HD" tvg-logo="http://latvonlive.com:33612/images/f844c40607afb6c449209fd758132cef.png" group-title="Cultura",Discovery Home & Health HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS66pyhkNItt9jgg1rfYm28I/ts
+
+#EXTINF:-1 xui-id="422" tvg-id="Investigation Discovery" tvg-name="Discovery ID HD" tvg-logo="http://latvonlive.com:33612/images/d92cf3c8915f1de90fa60417a9b5dec7.png" group-title="Cultura",Discovery ID HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDJa3rW8_OhT5i2O2Qz4CXhY/ts
+
+#EXTINF:-1 xui-id="640" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://latvonlive.com:33612/images/030dc9d879f41f8cca743945054c2c3b.png" group-title="Cultura",Discovery Science
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FSxsBHsnvkHizIFUfvlQ-7cM/ts
+
+#EXTINF:-1 xui-id="418" tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://latvonlive.com:33612/images/e706606ccb94b3b0c0f617610cc34a79.png" group-title="Cultura",Discovery Theater HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDMJa3vwu4JrEmReGOH6dO1w/ts
+
+#EXTINF:-1 xui-id="134" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://latvonlive.com:33612/images/86f89ff5ad2ae70ec12851e11589c812.png" group-title="Cultura",Discovery Turbo
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DQLlvbDmc0DkoYc15HL3Dao/ts
+
+#EXTINF:-1 xui-id="419" tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="http://latvonlive.com:33612/images/696923d6547247bb8c42add5bf5eaf38.png" group-title="Cultura",Discovery World HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDJdAdOpwZJ8q6j6FfcliVbw/ts
+
+#EXTINF:-1 xui-id="604" tvg-id="Elgourmet" tvg-name="El Gourmet HD" tvg-logo="http://latvonlive.com:33612/images/96ac9362179854be93ae1ab9807d714a.png" group-title="Cultura",El Gourmet HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS6mPvd8Vv9McDM4lNMthcEI/ts
+
+#EXTINF:-1 xui-id="598" tvg-id="History Channel" tvg-name="History Channel HD" tvg-logo="http://latvonlive.com:33612/images/ccc9e40a8f7fa65ac6fd09fc5d76cc7b.png" group-title="Cultura",History Channel HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUtAzfm2hjtwnGtThCXjOAH8/ts
+
+#EXTINF:-1 xui-id="19" tvg-id="History 2" tvg-name="H2 HD" tvg-logo="http://latvonlive.com:33612/images/ecd3de6af55beda203604cfb4f5063dc.png" group-title="Cultura",H2 HD
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DY0LgcYI8CYvKpUflrRb4LU/ts
+
+#EXTINF:-1 xui-id="590" tvg-id="National Geographic Channel" tvg-name="National Geographic HD" tvg-logo="http://latvonlive.com:33612/images/83543fb40bdf0cf9e2963c3856fe3cbb.png" group-title="Cultura",National Geographic HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUnXn-PBhWv1SBKK0FqyaQow/ts
+
+#EXTINF:-1 xui-id="588" tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://latvonlive.com:33612/images/0dc815b7f0a46f7c328d542ad5cef1c1.png" group-title="Cultura",Nat Geo Wild HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUjTJxqoZ0bcB1bM9IluvJNY/ts
+
+#EXTINF:-1 xui-id="633" tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://latvonlive.com:33612/images/ded187e4025b3e057c4a6ba7ba730f7b.png" group-title="Peliculas",AMC HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS9mq7YIhVDjrQlYOLFzSZBk/ts
+
+#EXTINF:-1 xui-id="632" tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://latvonlive.com:33612/images/de83de1ecf566b70a7cfbe2eba5ffe46.png" group-title="Peliculas",AXN HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS1Submrs_TxtnP2P4d6wWRM/ts
+
+#EXTINF:-1 xui-id="493" tvg-id="I726.80171.zap2it.com" tvg-name="Cine Sony HD" tvg-logo="http://latvonlive.com:33612/images/e6c9f0bda748a4d969152ea72fa6e157.png" group-title="Peliculas",Cine Sony HD
+http://latvonlive.com:33612/play/ErDvDEfynnzXX9Cw-PTeDOPSc7kZjkvYNY-MDhrphTo/ts
+
+#EXTINF:-1 xui-id="628" tvg-id="Cinecanal" tvg-name="Cinecanal HD" tvg-logo="http://latvonlive.com:33612/images/cb4fc32463a6e17d72333d8095999c2b.png" group-title="Peliculas",Cinecanal HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS81-gILjclAaJqgvto32awY/ts
+
+#EXTINF:-1 xui-id="95" tvg-id="Canal Cinema Dinamita" tvg-name="Cinema Dinamita" tvg-logo="http://latvonlive.com:33612/images/b454202af2e9a4e5ec443530fcac2d34.png" group-title="Peliculas",Cinema Dinamita
+http://latvonlive.com:33612/play/qZ8KxrbWUlbwsCrcfQud905OIomMCJCArGFMU0tE-h0/ts
+
+#EXTINF:-1 xui-id="723" tvg-id="I536.25623.zap2it.com" tvg-name="Cinemax East latino" tvg-logo="http://latvonlive.com:33612/images/2615cdcf6d5cf403e7c2c8540c377d4f.png" group-title="Peliculas",Cinemax East latino
+http://latvonlive.com:33612/play/dh1AFYX9Hk0-3GV9Tg0hjTCROzGZUx7kfph_fgqsm8s/ts
+
+#EXTINF:-1 xui-id="96" tvg-id="Cinemax" tvg-name="CineMax HD" tvg-logo="http://latvonlive.com:33612/images/07e1262f9b04f124fb88e2746a585ebc.png" group-title="Peliculas",CineMax HD
+http://latvonlive.com:33612/play/qZ8KxrbWUlbwsCrcfQud9xhcelpjuy1sg2AECxy-r98/ts
+
+#EXTINF:-1 xui-id="364" tvg-id="I452.33628.zap2it.com" tvg-name="De Película Clásico" tvg-logo="http://latvonlive.com:33612/images/13057c7832d13ead291989412aacd62d.png" group-title="Peliculas",De Película Clásico
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMP47qNDN5xAhvHMWjE9GRTI/ts
+
+#EXTINF:-1 xui-id="363" tvg-id="I451.35401.zap2it.com" tvg-name="De Película HD" tvg-logo="http://latvonlive.com:33612/images/69b65d9f8cd1cd2786a654faaa3db364.png" group-title="Peliculas",De Película HD
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMLQA0XZUtH-Tx3sXuRfFc9Q/ts
+
+#EXTINF:-1 xui-id="97" tvg-id="Canal DHE" tvg-name="DHE HD" tvg-logo="http://latvonlive.com:33612/images/331c3ccf2d502b007425b4173ce4c2c6.png" group-title="Peliculas",DHE HD
+http://latvonlive.com:33612/play/qZ8KxrbWUlbwsCrcfQud99pS6InF-uggGp0yDCchO9w/ts
+
+#EXTINF:-1 xui-id="581" tvg-id="FX Movies" tvg-name="FX Movie HD" tvg-logo="http://latvonlive.com:33612/images/23c8e1addefe19e0ca211ed6c533aeb9.png" group-title="Peliculas",FX Movie HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUgT3XzPV1wBPVNB_4NQSG6s/ts
+
+#EXTINF:-1 xui-id="606" tvg-id="Golden Premier" tvg-name="Golden Premier HD" tvg-logo="http://latvonlive.com:33612/images/231a37daca40fe280babebcdb66a2237.png" group-title="Peliculas",Golden Premier HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS5GjDvrNHLSWz5DEKDtHNqw/ts
+
+#EXTINF:-1 xui-id="607" tvg-id="Golden Plus" tvg-name="Golden Plus HD" tvg-logo="http://latvonlive.com:33612/images/f8e2ae667ab94170489265a147488aa0.png" group-title="Peliculas",Golden Plus HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS-9xlJcEBJHD_tvqJqMTyZg/ts
+
+#EXTINF:-1 xui-id="332" tvg-id="Space" tvg-name="Space HD" tvg-logo="http://latvonlive.com:33612/images/c642bbb0f132b69d25d7382a0de0ae6b.png" group-title="Peliculas",Space HD
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMI2CvsxEAGI8vu1NK9a6CKA/ts
+
+#EXTINF:-1 xui-id="109" tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://latvonlive.com:33612/images/dc6391137a2f7ecacdfed493faca9e3c.png" group-title="Peliculas",Studio Universal
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DWVTB0vbAqlmTLVBF0TS8mo/ts
+
+#EXTINF:-1 xui-id="322" tvg-id="I502.11164.schedulesdirect.org" tvg-name="TNT HD" tvg-logo="http://latvonlive.com:33612/images/38151a969212406fb984c351056410dd.png" group-title="Peliculas",TNT HD
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMBm2V30oRkp8fOMdDDbvMio/ts
+
+#EXTINF:-1 xui-id="331" tvg-id="I435.80807.schedulesdirect.org" tvg-name="TNT HD Mexico" tvg-logo="http://latvonlive.com:33612/images/38151a969212406fb984c351056410dd.png" group-title="Peliculas",TNT HD Mexico
+http://latvonlive.com:33612/play/PSK2DHzYNodR7wOfCKjaMHyfoa5tljDKP0HIl0Tyu5Y/ts
+
+#EXTINF:-1 xui-id="111" tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://latvonlive.com:33612/images/7fd33a68b1cb6723df6393ca53b7f32b.png" group-title="Peliculas",Universal Channel HD
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DblChcaI8CQp9Lyaw9KbJGE/ts
+
+#EXTINF:-1 xui-id="28" tvg-id="STZESP" tvg-name="StarzEncore Español HD" tvg-logo="http://latvonlive.com:33612/images/c6dada78b427046acfaac985c0d41817.png" group-title="Peliculas",StarzEncore Español HD
+http://latvonlive.com:33612/play/EGjti3B0vUDxMjjFJuqw4CFaw78dL0FSX5bKIa89XUQ/ts
+
+#EXTINF:-1 xui-id="29" tvg-id="I517.24553.zap2it.com" tvg-name="HBO Latino East HD" tvg-logo="http://latvonlive.com:33612/images/189e0282669ce6d8de52a92f9da0aacf.png" group-title="Peliculas",HBO Latino East HD
+http://latvonlive.com:33612/play/EGjti3B0vUDxMjjFJuqw4ArBlbsJ0CKCHyyEeV2PwYY/ts
+
+#EXTINF:-1 xui-id="601" tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://latvonlive.com:33612/images/9b42f0201f4ac97973da631f55ec8034.png" group-title="Peliculas",HBO HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS2ZYsvffF83daLB3q8PUIl8/ts
+
+#EXTINF:-1 xui-id="603" tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://latvonlive.com:33612/images/0b5c989e6add0d1b9093168d67c9a5c9.png" group-title="Peliculas",HBO 2 HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FSw3oy9mcQV8OwGSrZhkxMAY/ts
+
+#EXTINF:-1 xui-id="602" tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="http://latvonlive.com:33612/images/1ec8a879bb42c9bcd169770e8edae1d3.png" group-title="Peliculas",HBO Family HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS-21yIflwSeueYzD73gMMqA/ts
+
+#EXTINF:-1 xui-id="594" tvg-id="HBO MUNDI" tvg-name="HBO Mundi HD" tvg-logo="http://latvonlive.com:33612/images/7a33f7f3eaab7787e3c3b52ccc7a2e54.png" group-title="Peliculas",HBO Mundi HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUj2X2Y2y9nFYPaGPnkNLCiI/ts
+
+#EXTINF:-1 xui-id="600" tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://latvonlive.com:33612/images/c7edc36a2274923e691c76d71f0be711.png" group-title="Peliculas",HBO Plus HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FSzq4uk9vz19B2BR85X8adBE/ts
+
+#EXTINF:-1 xui-id="593" tvg-id="HBO POP" tvg-name="HBO POP HD" tvg-logo="http://latvonlive.com:33612/images/050a2617683d44af816c97632cc9be89.png" group-title="Peliculas",HBO POP HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUk-jAkGh3QSGhs64CSjI0gE/ts
+
+#EXTINF:-1 xui-id="599" tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://latvonlive.com:33612/images/f35cab07c682f66117299c6b8c820015.png" group-title="Peliculas",HBO Signature HD
+http://latvonlive.com:33612/play/2t1F4fMDyCUHUa5WvHHpUl8j_Vqxu1GPzyyLu739Yco/ts
+
+#EXTINF:-1 xui-id="611" tvg-id="I561.58828.schedulesdirect.org" tvg-name="Star Action HD" tvg-logo="http://latvonlive.com:33612/images/2c3d33f4e7dff9985b8499296c96bb66.png" group-title="Peliculas",Star Action HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS57UQmsFf2GYmc7yCrLzVYU/ts
+
+#EXTINF:-1 xui-id="616" tvg-id="I562.71662.schedulesdirect.org" tvg-name="Star Cinema HD" tvg-logo="http://latvonlive.com:33612/images/27bcb6befb43cb0d4595d3476f955952.png" group-title="Peliculas",Star Cinema HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS_6deZ_dPosoPcN2SdD6zSg/ts
+
+#EXTINF:-1 xui-id="615" tvg-id="I560.44028.schedulesdirect.org" tvg-name="Star Classics HD" tvg-logo="http://latvonlive.com:33612/images/56fd80c3d371e2721b19468e52b18dbb.png" group-title="Peliculas",Star Classics HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS2CszvH8Mp500E4rZqn0TXQ/ts
+
+#EXTINF:-1 xui-id="614" tvg-id="I1557.90969.schedulesdirect.org" tvg-name="Star Comedy HD" tvg-logo="http://latvonlive.com:33612/images/1051a9a33e1e941560c13c6ea3377b70.png" group-title="Peliculas",Star Comedy HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS6rSiiEXY2TLtnvIv4YaTnM/ts
+
+#EXTINF:-1 xui-id="610" tvg-id="I556.65399.schedulesdirect.org" tvg-name="Star Fun HD" tvg-logo="http://latvonlive.com:33612/images/8b207fc74d2885abcd99e931c69aefea.png" group-title="Peliculas",Star Fun HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FSzXyn2tXjDAXR54lYi87nWY/ts
+
+#EXTINF:-1 xui-id="609" tvg-id="I559.58833.schedulesdirect.org" tvg-name="Star Hits HD" tvg-logo="http://latvonlive.com:33612/images/7bb10f6a533b67f93a4592688a9ff667.png" group-title="Peliculas",Star Hits HD
+http://latvonlive.com:33612/play/juQvxqWPseSVSZ7QVg1FS9DwBEaHlS2yCR4rxM3xaLU/ts
+
+#EXTINF:-1 xui-id="101" tvg-id="I552.18812.schedulesdirect.org" tvg-name="Star Series HD" tvg-logo="http://latvonlive.com:33612/images/628aa215da643d5c60ba4995c1e48355.png" group-title="Peliculas",Star Series HD
+http://latvonlive.com:33612/play/NLuTzMvPAnBxM_61ULj6DcoY7MZ4RYxts8glLnZ2yEM/ts
+
+
+
+
